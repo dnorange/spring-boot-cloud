@@ -1,7 +1,7 @@
 server:
   port: 8080
 
-name: chenqing2018v2
+name: chenqing2018v3
 
 eureka:
   instance:
